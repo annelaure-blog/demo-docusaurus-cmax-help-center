@@ -44,6 +44,7 @@ const config: Config = {
     },
     navbar: {
       title: 'Commerce Max Help Center',
+      style: 'dark',
       items: [
         {
           type: 'docSidebar',
