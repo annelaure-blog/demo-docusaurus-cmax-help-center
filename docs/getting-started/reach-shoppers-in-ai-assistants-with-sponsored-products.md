@@ -14,20 +14,24 @@ Sponsored products only appear when they are strongly aligned with what the shop
 How Targeting Works
 No new setup is required to set up AI Assistant placements as they use the same keyword targeting and cost-per-click (CPC) bids already configured in your Sponsored Products line items.
 When a shopper's query is translated into keywords and filters, your existing line items are eligible to serve, exactly as they would on a search page.
-Note: AI Assistant inventory appears in your line item targeting options only when the selected retailer has enabled this feature. When available, it is activated by default within your All Inventory settings.
+:::note
+AI Assistant inventory appears in your line item targeting options only when the selected retailer has enabled this feature. When available, it is activated by default within your All Inventory settings.
 Controlling Your Investment
 You have full control over how your campaigns perform on this surface, using tools already familiar to you:
+:::
 
 Use bid multipliers. Apply a Page Type Bid Multiplier at the line item level to increase or decrease your investment on the AI Assistant surface relative to other page types. A positive multiplier increases your bid weight on this surface; a negative multiplier reduces it.
 
 Expect standard pricing. There are no premium floors or separate ratecards for AI Assistant placements. You enter the auction on the same pricing terms as search page placements.
-Note: You cannot configure a line item to serve exclusively on the AI Assistant surface. The platform is designed to optimize your budget across all eligible page types based on campaign performance. If AI Assistant generates stronger results for a given query, the engine will naturally shift spend there.
+:::note
+You cannot configure a line item to serve exclusively on the AI Assistant surface. The platform is designed to optimize your budget across all eligible page types based on campaign performance. If AI Assistant generates stronger results for a given query, the engine will naturally shift spend there.
 Measuring Performance
 Because AI Assistant is a standalone page type, you can isolate its performance using your existing reporting workflow:
+:::
 
-Navigate to the Analytics section.
+1. Navigate to the Analytics section.
 
-Select Onsite Sponsored Products Activity.
+1. Select Onsite Sponsored Products Activity.
 
 Apply the Page Type dimension.
 

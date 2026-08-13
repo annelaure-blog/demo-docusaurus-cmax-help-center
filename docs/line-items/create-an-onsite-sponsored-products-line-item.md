@@ -38,9 +38,9 @@ Product category (recommended) 
 
 Price range 
 
-Launch status (e.g., new vs. best-sellers) 
+1. Launch status (e.g., new vs. best-sellers)
 
-Why This Works? 
+### Why This Works?
 
 Helps you adjust bids based on different category floor prices and competition levels. 
 
@@ -54,7 +54,7 @@ Avoid selecting the same products (SKUs) in multiple line items within the same 
 
 You’ll benefit from cross-line item optimization and more scale by grouping related products in the same campaign. 
 
-Where to view results?
+### Where to view results?
 
 Use Analytics > Campaign Summary or Activity Dashboard to check performance by line item or product category.Scenario 2: Multiple Brands, One or Multiple Categories
 
@@ -62,7 +62,7 @@ Recommended Setup: 
 
 Create one campaign per brand. 
 
-Add multiple line items per campaign, grouping products by: 
+1. Add multiple line items per campaign, grouping products by:
 
 Category 
 
@@ -74,7 +74,7 @@ Alternative Option: 
 
 Create campaigns by Brand + Category and use line items for deeper product segmentation. 
 
-Why This Works? 
+### Why This Works?
 
 Keeps your strategy brand focused. 
 
@@ -82,28 +82,30 @@ Allows you to tailor budgets, bids, and goals by both brand and product category
 
 Makes it easier to compare brand performance in reports. 
 
-Where to view results? 
+### Where to view results?
 
 Use Analytics > Campaign Summary or Activity Dashboard to view performance by brand and category. 
 
 In this guide, you will learn how to create line items for Onsite Sponsored Products. If you’ve just completed the campaign creation workflow, you will be automatically redirected to create your first line item, or follow the steps below. 
 
-Go to the Campaigns section of the platform. 
+1. Go to the Campaigns section of the platform.
 
 Find the campaign you want to add a line item to, and click its name. 
 
 You’ll land on the campaign page, where you can view existing line items and add new ones. 
 
-Click the +Line Item button on the left side of the page. 
+1. Click the +Line Item button on the left side of the page.
 
-Choose between the following options: 
+1. Choose between the following options:
 
-Set up multiple line items at once: This option is designed to make it easy to create numerous line items at once, by retailer, for some or all of the retailers that carry the products you’ve selected to promote. 
+1. Set up multiple line items at once: This option is designed to make it easy to create numerous line items at once, by retailer, for some or all of the retailers that carry the products you’ve selected to promote.
 
-Set up one line item at a time: Set up retailer-specific line items individually. 
+1. Set up one line item at a time: Set up retailer-specific line items individually.
 
 I’ll set them up later: Come back and create your line items later; only your campaign shell will be created.
-Important: The I'll set them up later option is only available if you're accessing the workflow via automatic redirection immediately after creating your campaign shell.
+:::warning
+The I'll set them up later option is only available if you're accessing the workflow via automatic redirection immediately after creating your campaign shell.
+:::
 
 ## Step 1: Settings
 
@@ -111,13 +113,13 @@ Naming your Line Item
 
 The first step in creating a line item is to give it a name. The name you choose will only be visible to you on the Campaigns page and in Analytics. It will not appear in your ads and will never be visible to shoppers. 
 
-Choose a name that helps you easily identify the line item within your campaign or in reports. Line item names must be unique within a campaign—each line item must have a different name.
+1. Choose a name that helps you easily identify the line item within your campaign or in reports. Line item names must be unique within a campaign—each line item must have a different name.
 
-Selecting a Retailer
+1. Selecting a Retailer
 
 After naming the line item, select the Retailer where you want your ads to run. 
 
-Click the dropdown menu to choose from the available retailers. You can select only one retailer per line item. 
+1. Click the dropdown menu to choose from the available retailers. You can select only one retailer per line item.
 
 The list of products available for promotion (explained later in this guide) will automatically update based on the selected retailer.
 Targeting Based on Tracking Preference  
@@ -128,16 +130,20 @@ Only opted-in shoppers (default) 
 
 Or both opted-in and opted-out shoppers 
 If no targeting options are shown and you are not a Read-Only user, assume that your line item will target opted-in users only.
-Important: No sales attribution is collected for opted-out users because attribution depends on user ID. As a result, ROAS and conversion-based KPIs may appear lower when targeting both opted-in and opted-out shoppers. However, including opted-out shoppers can increase total impressions and clicks. 
+:::warning
+No sales attribution is collected for opted-out users because attribution depends on user ID. As a result, ROAS and conversion-based KPIs may appear lower when targeting both opted-in and opted-out shoppers. However, including opted-out shoppers can increase total impressions and clicks.
+:::
 
 Bid Strategy 
 
 In this step, you’ll choose your preferred bidding strategy. We offer Standard or Adaptive CPC optimization. Your choice in this step will impact what fields you see in Step 4: Bid
 
-Setting Start and End Dates
+1. Setting Start and End Dates
 
 Begin by selecting a Start Date from the calendar. Today's date is selected by default, but you may choose any future date.
-Note: If you select a future date, your line item will have a Scheduled status. It will automatically switch to Active on the selected date and begin delivering ads.
+:::note
+If you select a future date, your line item will have a Scheduled status. It will automatically switch to Active on the selected date and begin delivering ads.
+:::
 
 Next, choose an End Date. You have two options: 
 
@@ -147,7 +153,7 @@ Specific End Date: Select a date from the calendar. The line item will automatic
 
 ## Multiple Line Item Set Up
 
-Set up multiple line items at once instead of creating them one by one. This option will enable you to choose a common list of products to promote across various retailers, and to create multiple line items by retailer in bulk.  
+1. Set up multiple line items at once instead of creating them one by one. This option will enable you to choose a common list of products to promote across various retailers, and to create multiple line items by retailer in bulk.
 Each of the created line items will contain all or a subset of the products you selected, depending on each retailer’s product availability. There are two steps while setting up multiple line items at once that have been explained in detail next in this guide:  
 
 Product Selection & Keywords  
@@ -157,11 +163,11 @@ You will have the option to validate which exact retailers and line items you wi
 
 ## Ad Scheduling
 
-How to set up an Ad Schedule?
+### How to set up an Ad Schedule?
 
-Click the Ad Schedule option under the Schedule heading in Step 1 of the line item creation process. 
+1. Click the Ad Schedule option under the Schedule heading in Step 1 of the line item creation process.
 
-Select Run Ads on a schedule to reveal a set of three dropdowns: 
+1. Select Run Ads on a schedule to reveal a set of three dropdowns:
 
 Day(s) of the week 
 
@@ -171,32 +177,38 @@ End Time 
 
 To create a schedule for your Onsite Sponsored Products Line Item:
 
-Choose a day of the week or use the Weekday (Monday–Friday) or Weekend (Saturday–Sunday) presets.
+1. Choose a day of the week or use the Weekday (Monday–Friday) or Weekend (Saturday–Sunday) presets.
 
-Set your desired Start Time, from 12:00 a.m. to End of Day (11:59 p.m.). 
+1. Set your desired Start Time, from 12:00 a.m. to End of Day (11:59 p.m.).
 
-Set your desired End Time, from 12:00 a.m. to End of Day (11:59 p.m.). 
+1. Set your desired End Time, from 12:00 a.m. to End of Day (11:59 p.m.).
 
-Click Add to build out your schedule. You can create multiple time blocks for a single day (intraday parameters). For example, for Monday, you might schedule ads to run: 
+1. Click Add to build out your schedule. You can create multiple time blocks for a single day (intraday parameters). For example, for Monday, you might schedule ads to run:
 
 7:00–9:00 a.m. 
 
 12:00–2:00 p.m. 
 
 5:00 p.m.–End of Day
-Tip: Make sure your end time is after your start time for each entry.
+:::tip
+Make sure your end time is after your start time for each entry.
+:::
 
-Ensure that you’ve selected an end time after your start time. If you set conflicting rules – for example, Monday: 9:00 a.m.-10:00 p.m., Tuesday: 6:00 a.m.-4:00 p.m., Weekdays (Monday-Friday): 7:00 a.m.-5:00 p.m., then the system will take the earliest start time available to each period and the latest possible end time:  
+1. Ensure that you’ve selected an end time after your start time. If you set conflicting rules – for example, Monday: 9:00 a.m.-10:00 p.m., Tuesday: 6:00 a.m.-4:00 p.m., Weekdays (Monday-Friday): 7:00 a.m.-5:00 p.m., then the system will take the earliest start time available to each period and the latest possible end time:
 
 Monday: 7:00 a.m.-10:00 p.m.  
 
 Tuesday: 6:00 a.m.-5:00 p.m.  
 
 Wednesday, Thursday, Friday: 7:00 a.m.-5:00 p.m.
-Important: The scheduled times will reflect the time zone the account is set to – not your individual user settings.
+:::warning
+The scheduled times will reflect the time zone the account is set to – not your individual user settings.
+:::
 
-Click the x button to the right of each individual rule to remove it. To reset the schedule entirely, click Run Ads all the time. 
-Note: Line items using the Ad Schedule feature will remain in Active status, including during hours of the day they are not scheduled to run. 
+1. Click the x button to the right of each individual rule to remove it. To reset the schedule entirely, click Run Ads all the time.
+:::note
+Line items using the Ad Schedule feature will remain in Active status, including during hours of the day they are not scheduled to run.
+:::
 
 For more information on Ad Scheduling, check out the dedicated article here Ad Schedule.
 
@@ -219,7 +231,7 @@ In the Multiple Line Items workflow, you can search for products using GTIN/UPC/
 
 Copy and paste your IDs into the search field (one per line) and click on the Search call-to-action on the right-hand side. We will find and show you the exact-match products of the pasted IDs.   
 
-Select the products you wish to promote. We will conduct a search for all matching products across our network of available retailers in the next step.   
+1. Select the products you wish to promote. We will conduct a search for all matching products across our network of available retailers in the next step.
 IMPORTANT: Please note that while initial manual product selection can be done using any of the identifiers listed above, the product unification (i.e., being able to tell that the same product selected is the same product sold on Retailer A, B, C, etc. ) is done using the GTIN/UPC/EAN value only. See Step 2 for more details.
 Product Selection Best Practices:
 
@@ -251,7 +263,7 @@ About the Commerce Max Keyword Model 
 Negative Keyword Targeting  
 Tips: 
 
-Enter one keyword or keyword string per row. 
+1. Enter one keyword or keyword string per row.
 
 Keywords are not case-sensitive. 
 
@@ -270,7 +282,7 @@ Once you’ve selected your products and made any optional adjustments to your k
 
 ## Budget, Caps and Pacing
 
-Setting a Line Item Budget  
+1. Setting a Line Item Budget
 
 After creating your line item, you can choose one of two budget options: 
 
@@ -278,7 +290,7 @@ Uncapped Budget: Select Uncapped, and your line item will spend freely from the 
 
 Capped Budget: Select Capped and enter the maximum amount for your line item to spend. Your line item might not spend the entire amount. The amount is used as a cap, and your line item will stop spending when it is reached. 
 
-Setting a Line Item Pacing  
+1. Setting a Line Item Pacing
 After selecting a budget, you can optionally set pacing rules to control the rate at which the budget is spent. By default, no pacing is applied, and the line item will spend as quickly as possible. You can select one or a combination of the following options: 
 You can optionally set line item pacing to determine how a line item spends its capped or uncapped budget. Regardless of whether a pace is set, a line item will never spend more than its set budget or campaign budget. You can set a Daily and/or Monthly Pace or an Automated Pace per line item. 
 
@@ -295,7 +307,7 @@ On the Campaigns page, click the name of the campaign that contains the line ite
 
 On the Line Items page, click the Edit icon in the Daily Pace and/or Monthly Pace column and enter the amount you want to allot per day/month. 
 
-Click Save. How to set an Automated Pace?
+### Click Save. How to set an Automated Pace?
 
 On the Campaigns page, click the name of the campaign that contains the line item you want to edit. 
 
@@ -305,10 +317,12 @@ On the Line Item Settings step, ensure that an End Date is set (in the Schedule 
 
 Scroll to the Daily Cap section and mark the Automated checkbox. 
 
-Click Save & Exit.
+1. Click Save & Exit.
 Example: If your line item is set to last for 30 days and the total remaining line item budget is $30,000, then the Automated Daily Pacing option will set a pace of $1,000 delivery per day. 
 Later, your same line item with a budget of $30,000 underspends over the first 10 days. There are now 20 days remaining in flight and $25,000 of budget left to spend. The Automated option will calculate that the line item needs to spend $1,250 per day in order to spend the remaining budget. With the Automated option, you don't have to adjust your daily pace every day based on yesterday's spend; the platform does it for you. 
-Important: The automated daily pace tool will adjust your pacing every day to meet your desired spend goal based on your remaining budget.
+:::warning
+The automated daily pace tool will adjust your pacing every day to meet your desired spend goal based on your remaining budget.
+:::
 
 ## Step 2: Line Items
 
@@ -359,7 +373,7 @@ The Daily Cap Override is an additional daily cap that is optional. Users can us
  
 With a Daily Cap Override, you can schedule spend in advance and control exactly when and how much a line item can spend up to.How does a Daily Cap Override work?
 
-Setting a Daily Cap Override is optional. Whenever it is relevant, the budget cap specified by the Daily Cap Override will supersede the budget cap set by the Daily Pace setting. 
+1. Setting a Daily Cap Override is optional. Whenever it is relevant, the budget cap specified by the Daily Cap Override will supersede the budget cap set by the Daily Pace setting.
 During non-applicable days, pacing will be determined by the Daily Pace amount. 
 Example: Your line item is set to last between October 3rd and December 15th with a daily pace of $500. 
 However, with Black Friday coming up on November 27th you want to increase your budget cap from $500 to $1,000 – on this day only though. You will therefore set up a Daily Cap Override of $1,000 for November 27th. The daily pace value will change from $500 to $1,000, on the selected day only. How to create or edit a Daily Cap Override?
@@ -368,19 +382,21 @@ To create or edit a Daily Cap Override, 
 
 Find the line item for which you want to create or view a Daily Cap Override. 
 
-Click on the edit icon in the Daily Budget column. 
+1. Click on the edit icon in the Daily Budget column.
 
 A pop-up should appear, showing the daily pacing settings. 
 
-Click on Manage on the bottom right and access the Daily Cap Override tool. In this tool, you can see and edit the existing active or upcoming Daily Cap Overrides, as well as create new ones. 
+1. Click on Manage on the bottom right and access the Daily Cap Override tool. In this tool, you can see and edit the existing active or upcoming Daily Cap Overrides, as well as create new ones.
 
-Click on the Add button. A new row will be added to the table where you can specify the start and end dates and the daily cap value.
+1. Click on the Add button. A new row will be added to the table where you can specify the start and end dates and the daily cap value.
 
 To edit, click the pencil edit icon, modify the settings.
 
-Click on the Tick icon to save it. Your new cap is ready and visible on the table.  
+1. Click on the Tick icon to save it. Your new cap is ready and visible on the table.
 You can create multiple overrides; however, they all have to be on different dates.
-Note: Daily Cap Overrides are budget caps. The line item has the opportunity to spend up to that specified amount, but might not spend the entire amount.
+:::note
+Daily Cap Overrides are budget caps. The line item has the opportunity to spend up to that specified amount, but might not spend the entire amount.
+:::
 
 ## Monthly Cap Overrides
 
@@ -388,7 +404,7 @@ Commerce Max supports two monthly and three daily (automated, fixed, none) pacin
 The Monthly Cap Override is an additional monthly cap that is optional. Monthly Cap Overrides can be used to adjust the budget of a single month without removing the Monthly Cap from the whole flight. Pacing will adjust for the month with the Monthly Cap Override to the new set amount.   
 With a Monthly Cap Override, you can schedule monthly budget caps in advance and control exactly how much a line item can deliver up to each month.How does a Monthly Cap Override work?
 
-Setting a Monthly Cap Override is optional.
+1. Setting a Monthly Cap Override is optional.
 A Monthly Cap Override will be respected over the default monthly cap option (Fixed, None) when applicable. During non-applicable months, the budget cap specified by the Monthly Pace setting will be used. 
 Example: Your line item is set to cap at $5,000 every month using the Fixed option. Mid-flight, during a holiday month, you want to increase your cap to $10,000 for this month only. You can set up a Monthly Cap Override of $10,000 – for this month only. The monthly pace value will change from $5,000 to $10,000, for the selected month only. You can also use the override to decrease the cap.   
 Monthly Cap Overrides are also used to calculate the daily needed spend for the Automated pacing option.
@@ -398,25 +414,34 @@ To create or edit a Monthly Cap Override: 
 
 Find the line item for which you want to create or view a Monthly Cap Override. 
 
-Click the edit icon in the Monthly Budget column. 
+1. Click the edit icon in the Monthly Budget column.
 
 A pop-up should appear, showing the monthly pacing settings. 
 
-Click Manage on the bottom right and access the Monthly Cap Override tool. In this tool, you can see and edit the existing active or upcoming Monthly Cap Overrides, as well as create new ones. 
+1. Click Manage on the bottom right and access the Monthly Cap Override tool. In this tool, you can see and edit the existing active or upcoming Monthly Cap Overrides, as well as create new ones.
 
 To create a new Monthly Cap Override, click on the Add button. A new row will be added to the table where you can select the month and enter the monthly cap value.
-Note: You can create multiple overrides; however, they must be for different months.
+:::note
+You can create multiple overrides; however, they must be for different months.
+:::
 
 To edit a Monthly Cap Override, click the pencil edit icon on the existing override and modify the settings.
 
-Click the tick icon to save it. Your new cap is ready and is visible on the table.
-Note: By default, the table will show only active or upcoming Monthly Cap Overrides, which are automatically sorted in chronological order. Monthly Cap Overrides of any status can be deleted at any point in time.
-Note: Monthly Cap Overrides are budget caps. The line item has the opportunity to spend up to that specific amount, but might not spend the entire amount.
+1. Click the tick icon to save it. Your new cap is ready and is visible on the table.
+:::note
+By default, the table will show only active or upcoming Monthly Cap Overrides, which are automatically sorted in chronological order. Monthly Cap Overrides of any status can be deleted at any point in time.
+:::
+
+:::note
+Monthly Cap Overrides are budget caps. The line item has the opportunity to spend up to that specific amount, but might not spend the entire amount.
+:::
 
 ## Step 2: Keyword Targeting Strategy
 
-Important: This option will be available only if your retailer has enabled the Conquesting feature on their site. 
-In this step, you’ll choose how your line item targets keywords for your Onsite Sponsored Products line item. This helps determine when and where your ads appear on the retailer’s site, allowing you to reach the right shoppers at the right time. 
+:::warning
+This option will be available only if your retailer has enabled the Conquesting feature on their site.
+In this step, you’ll choose how your line item targets keywords for your Onsite Sponsored Products line item. This helps determine when and where your ads appear on the retailer’s site, allowing you to reach the right shoppers at the right time.
+:::
 
 Keyword Types 
 
@@ -431,7 +456,9 @@ A shopper searches: “Brand A shampoo”. 
 Brand B bids on that keyword using conquesting. 
 
 Brand B’s ad appears, potentially winning the shopper’s interest before they click on Brand A.  
-Note: In a Search environment where you can bid on both your own and competitors’ branded queries, two distinct targeting needs naturally emerge: 
+:::note
+In a Search environment where you can bid on both your own and competitors’ branded queries, two distinct targeting needs naturally emerge:
+:::
 
 Branded Keyword Defense
 
@@ -490,7 +517,9 @@ If you choose this option, to ensure conquesting terms can actually compete:
 Apply higher keyword bid overrides specifically on Conquesting keywords.
 
 This “bids up” only the conquesting terms without inflating bids for Generic/Branded keywords.
-Important: Adaptive CPC does not support keyword bid overrides. If you follow the recommended guidance and intend to implement higher bid overrides for conquesting terms, you will only be able ot use Standard Bidding. Option 2 (Recommended): Parallel Line Items
+:::warning
+Adaptive CPC does not support keyword bid overrides. If you follow the recommended guidance and intend to implement higher bid overrides for conquesting terms, you will only be able ot use Standard Bidding. Option 2 (Recommended): Parallel Line Items
+:::
 
 Here, you create two separate line items running in parallel:
 
@@ -509,7 +538,7 @@ Best path when using Adaptive CPC: By setting up a dedicated Conquesting (only) 
 
 Guidance for Generic & Branded: 
 
-Set bids and budgets based on observed performance and your usual optimization approach (e.g., segmenting by keyword/category performance and adjusting over time). 
+1. Set bids and budgets based on observed performance and your usual optimization approach (e.g., segmenting by keyword/category performance and adjusting over time).
 
 For branded keywords, we recommend a defensive coverage strategy: maintain consistent sponsorship on your own brand terms to fully control which products appear to shoppers already familiar with your brand – often at relatively low CPCs when competition is limited. 
 
@@ -531,7 +560,7 @@ Keep branded coverage always‑on,
 
 Increase bids/budgets when competitors target your brand.
 
-Additional Keywords
+1. Additional Keywords
 You can also manually manage keywords for greater control: 
 
 Negative Keywords - Add keywords you want to exclude to avoid showing ads on irrelevant searches. 
@@ -539,16 +568,16 @@ Negative Keywords - Add keywords you want to exclude to avoid showing ads on irr
 Submitted Keywords - Add custom keywords you'd like to target. These will be validated by the retailer and will start delivering once approved. By default, all the products selected for inclusion in your line items will already have keywords automatically associated with them by our algorithmic keyword model.
 Important - We do not automatically detect when two brands have the same parent company (example - Maybelline and NYX Cosmetics under L’Oréal). If you want to avoid bidding on branded keywords of sister brands, you must manually add these keywords as negatives in the Conquesting line items. Make sure to -
 
-Review keyword-level reporting regularly to identify and exclude any undesired terms.
+1. Review keyword-level reporting regularly to identify and exclude any undesired terms.
 
-Set recurring audits (bi-weekly or monthly) to monitor keyword performance.
+1. Set recurring audits (bi-weekly or monthly) to monitor keyword performance.
 
 Check the retailer site periodically to see which competitors are conquesting your brand or targeting the same competitor terms.
 
 Use these insights to ensure defensive coverage and prioritize the most competitive keywords.
 Best Practices:
 
-Enter one keyword or keyword string per row.
+1. Enter one keyword or keyword string per row.
 
 Keywords are not case-sensitive.
 
@@ -635,18 +664,20 @@ When looking for products, it's best to avoid searching by “Product ID” unle
 ## Step 4: Bid
 
 Once you've selected your products, you'll move to setting the parameters in relation to your chosen Bid Strategy (Adaptive or Standard).
-Setting your Line Item’s Bid (CPC)
+1. Setting your Line Item’s Bid (CPC)
 This is the baseline amount you are willing to pay for one click of your ad, and that will enter the auction. It does not include your account fees. 
-Important: Make sure your bid amount is above the Minimum Bid amount listed below the input field. Be careful- this minimum bid amount can change, so be sure to check back regularly to ensure your bid is above the minimum. 
-Depending on the optimization strategy selected (Adaptive or Standard), your CPC bid may be sensibly adjusted to drive more performance. 
-To set the bid: 
+:::warning
+Make sure your bid amount is above the Minimum Bid amount listed below the input field. Be careful- this minimum bid amount can change, so be sure to check back regularly to ensure your bid is above the minimum.
+Depending on the optimization strategy selected (Adaptive or Standard), your CPC bid may be sensibly adjusted to drive more performance.
+To set the bid:
+:::
 
 Simply enter the amount in the input field in the Bidding box. 
 
 Commerce Max operates on a first-price auction, where all bids act independently of one another and the highest bid ultimately wins. In addition to the bid, relevancy, and prediction, decide which SKU wins the auction. Your CPC bid controls the volume that your ads will deliver.
 As a reminder, there are 3 different base models that allow you to optimize your bid based on the likelihood your ad will generate a desired shopper action in line with your campaign objectives: 
 
-Clicks Optimizer: This focuses on maximizing the click-through rate (CTR). The engine will adjust the delivery of your ads based on their likelihood to trigger a click. 
+1. Clicks Optimizer: This focuses on maximizing the click-through rate (CTR). The engine will adjust the delivery of your ads based on their likelihood to trigger a click.
 
 Conversions Optimizer: This focuses on maximizing conversions. It automatically adjusts your bids based on how likely a click is to result in a conversion - such as a purchase. By focusing on conversion potential rather than just clicks, you can lower your overall cost-per-order and improve ad performance.
 
@@ -664,11 +695,14 @@ The range is based on continuous real-time analysis of historical auction data w
 Suggested Bids helps to simplify the optimization process by arming you with instant insight into competitor bids, to benchmark your own CPC against. This can help you more efficiently assess the right level at which to bid without risking overpaying relative to other advertisers in your category and ensure that your campaign starts winning auctions and reaching relevant shoppers immediately. 
 
 If you decide impressions are worth more than the suggested bid range, you can always raise your CPC higher, and your SKUs will be more likely to win auctions and serve onsite. Conversely, you can set your bid below the range until the Minimum Bid is reached. 
-Tip: The suggested bid range can be especially helpful in determining a bid to use when you first launch your line item, given that you won’t yet have historical performance. Because the guidance is based on the most recent winning bid values that led to an ad being displayed onsite for similar products competing in your relevant categories, you can use the range to ensure your line item is competitive from the outset, while avoiding overpaying for impressions.
+:::tip
+The suggested bid range can be especially helpful in determining a bid to use when you first launch your line item, given that you won’t yet have historical performance. Because the guidance is based on the most recent winning bid values that led to an ad being displayed onsite for similar products competing in your relevant categories, you can use the range to ensure your line item is competitive from the outset, while avoiding overpaying for impressions.
+:::
 
 ## Adaptive CPC Optimization
 
-Note:
+:::note
+:::
 
 This model is available only for Onsite Sponsored Product campaigns.  
 
@@ -679,13 +713,15 @@ You can switch back to Standard optimizers at any time by editing the campaign.�
 It is not compatible with product/keyword bid overrides or page type bid multipliers.  
 
 It is not available during multi-retailer line item setup; it is only available during single-retailer line item setup. 
-What are Adaptive CPC optimization models? 
+### What are Adaptive CPC optimization models?
 Adaptive CPC optimization is a type of bidding strategy for Sponsored Products campaigns. It represents a new generation of our Standard performance optimizers for the Sponsored Products line items. 
 Like our Standard optimization models, they dynamically adjust bids based on the likelihood that showing your ad will lead to a shopper taking a desired action, as determined by your choice of base optimization model, either Clicks, Conversions, or Revenue.
 However, Adaptive CPC models add an additional layer of intelligence by factoring in pacing (how quickly your line item is spending relative to its budget) and observed and predicted traffic trends on the retailer's site. This allows them to balance performance optimization with budget efficiency, ensuring your line item spends effectively across the full span of shopper activity each day.  
 While Standard performance optimizers only adjust bid amounts based on performance predictions, Adaptive CPC optimizers also introduce auction throttling — the practice of participating in only a subset of available auctions when a line item is pacing ahead of its plan. This helps align both bidding and auction participation with real-time traffic and marketplace conditions. 
 The goal of Adaptive CPC is to help each line item achieve strong performance outcomes while spending its full budget efficiently, avoiding premature cap-outs and maintaining visibility during peak traffic periods.
-Note: Advertisers still choose a target KPI, but only need to set a Max CPC. The optimizer handles the rest.
+:::note
+Advertisers still choose a target KPI, but only need to set a Max CPC. The optimizer handles the rest.
+:::
 
 This is an optional model, but when compared to other standard models, Adaptive is a more advanced, dynamic bidding model because it:  
 
@@ -705,7 +741,7 @@ The first action here in your line item creation is to select your line item’s
 
 Let us learn in detail how each of the above models works: Clicks Optimizer
 
-Select the Clicks Optimizer if you want the highest click volume relative to your impressions, or in other words, the best CTR. With this optimization strategy, the Commerce Max engine will determine which pages are most relevant to show your ad based on the shopper's current shopping behavior and their likelihood to click on your ad. 
+1. Select the Clicks Optimizer if you want the highest click volume relative to your impressions, or in other words, the best CTR. With this optimization strategy, the Commerce Max engine will determine which pages are most relevant to show your ad based on the shopper's current shopping behavior and their likelihood to click on your ad.
 The bid will remain constant for every opportunity, and the bid you enter is the amount you will be charged for all clicks tied to the line item. 
 
 Learning Phase 
@@ -713,12 +749,14 @@ There’s no learning phase with the Clicks Optimizer. Select, launch, go! 
 
 CPC bid management with Clicks Optimizer 
 You can adjust your CPC bids at the line item or SKU level to control the delivered volume of clicks. 
-Additionally, we recommend that you calibrate your CPC bids based on seasonality to better control your volume of clicks.Conversions Optimizer
+1. Additionally, we recommend that you calibrate your CPC bids based on seasonality to better control your volume of clicks.Conversions Optimizer
 
-Select the Conversions Optimizer if you want to maximize your ad’s conversions and minimize your Cost-Per-Order (CPO). 
+1. Select the Conversions Optimizer if you want to maximize your ad’s conversions and minimize your Cost-Per-Order (CPO).
 The input CPC bid will be used as a baseline bid. With the conversion optimization strategy, the engine will slightly adjust your bid based on your ad’s likelihood to trigger a purchase, relative to your campaign performance. 
-Note: This means that the average CPC value you can find in your dashboards and reports will differ from the entered CPC bid.
+:::note
+This means that the average CPC value you can find in your dashboards and reports will differ from the entered CPC bid.
 For each line item, when using the Conversions Optimizer, you can set up a Max CPC Bid Limit (different from your input CPC bid) that will act as a maximum hard cap for the adjusted CPC bids.
+:::
 
 Learning Phase 
 
@@ -727,9 +765,9 @@ A learning phase starts whenever you select the Conversions Optimizer, and if yo
 CPC bid management with Conversions Optimizer 
 
 We recommend that you apply the same CPC bid across all your SKUs and line items. This allows the optimizer to deliver its best performance, given your available budget, and saves you time doing bid management. 
-Additionally, we recommend that you calibrate your CPC bids based on seasonality to better control your volume of clicks. 
+1. Additionally, we recommend that you calibrate your CPC bids based on seasonality to better control your volume of clicks.
 
-Can I still choose not to apply the same CPC bid across all line items? 
+### Can I still choose not to apply the same CPC bid across all line items?
 
 Yes. Even though we encourage you to use the same CPC bid across all your line items, there are some scenarios where it makes sense to change it. 
 
@@ -737,8 +775,10 @@ Applying the same CPC bid would require you to input everywhere a CPC bid above 
 
 If you have hybrid objectives for your campaign (push the visibility of a specific SKU, spend volume on a particular inventory, etc.), then you should adjust the CPC bids to control the volume of scopes that matter to you. Revenue Optimizer
 
-Select the Revenue Optimizer if you want to maximize your attributed revenue (ROAS). The input CPC bid will be used as a baseline bid. With the revenue optimization strategy, the Commerce Max engine will slightly adjust your bid based on your ad’s predicted attributed sales amount, relative to your campaign performance. 
-Note: This means that the average CPC value you can find in your dashboards and reports will differ from the entered CPC bid.
+1. Select the Revenue Optimizer if you want to maximize your attributed revenue (ROAS). The input CPC bid will be used as a baseline bid. With the revenue optimization strategy, the Commerce Max engine will slightly adjust your bid based on your ad’s predicted attributed sales amount, relative to your campaign performance.
+:::note
+This means that the average CPC value you can find in your dashboards and reports will differ from the entered CPC bid.
+:::
 
 For each line item, when using the Revenue Optimizer, you can set up a Max CPC Bid Limit (different from your input CPC bid) that will act as a maximum hard cap for the adjusted CPC bids.
 
@@ -749,9 +789,9 @@ Note that a learning phase starts whenever you select the Revenue Optimizer, and
 CPC bid management with Revenue Optimizer 
 
 We recommend that you apply the same CPC bid across all your SKUs and line items. This allows the optimizer to deliver its best performance, given your available budget, and saves you time doing bid management. 
-Additionally, we recommend that you calibrate your CPC bids based on seasonality to better control your volume of clicks.
+1. Additionally, we recommend that you calibrate your CPC bids based on seasonality to better control your volume of clicks.
 
-Can I still choose not to apply the same CPC bid across all line items? 
+### Can I still choose not to apply the same CPC bid across all line items?
 
 Yes. Even though we encourage you to use the same CPC bid across all your line items, there are some scenarios where it makes sense to change it. 
 
@@ -774,13 +814,13 @@ This ensures your budget is used efficiently while saving you from manually adju
 
 You can choose one of three standard optimizers or the adaptive CPC optimizer, depending on your goals: 
 
-Click Optimizer (focused on clicks) 
+1. Click Optimizer (focused on clicks)
 
 Conversions Optimizer (focused on orders) 
 
 Revenue Optimizer (focused on return on ad spend)
 
-Click Optimizer
+1. Click Optimizer
 
 Optimizes for: Clickthrough Rate (CTR) 
 
@@ -794,18 +834,25 @@ Optimizes for: Cost per Order (CPO) 
 CPC Control: Partial; your bid may vary slightly based on performance. To prevent overspending, you can set a maximum CPC cap. 
 
 Learning Period: Yes, it typically takes 7–14 days to fully optimize. 
- Note: Switching to the Revenue Optimizer will restart the learning period. If you later return to the Conversions Optimizer, it will re-enter learning mode again.
+:::note
+Switching to the Revenue Optimizer will restart the learning period. If you later return to the Conversions Optimizer, it will re-enter learning mode again.
 Choose this if your focus is on driving purchases efficiently, and you’re okay with giving the system some flexibility in adjusting your bids. Revenue Optimizer
+:::
 
 Optimizes for: Return on Ad Spend (ROAS) 
 
 CPC Control: Partial; your bid may fluctuate. You can set a maximum bid cap (separate from your input CPC) to limit how high the bid can go. 
 
 Learning Period: Yes, it typically takes 7–14 days to reach peak performance.
-Note: As with the Conversions Optimizer, switching between models will restart the learning phase.
+:::note
+As with the Conversions Optimizer, switching between models will restart the learning phase.
 To understand how the Apative CPC Optimizer works, please refer to Adaptive CPC Optimization.
+:::
 
-Tip: Start with Conversion or Revenue Optimizer, only if you have a sufficient volume of historical campaign data.
+:::tip
+Start with Conversion or Revenue Optimizer, only if you have a sufficient volume of historical campaign data.
+:::
+
  
 Verification 
 Once saved, go back to the line-item view to verify that the selected optimizer and bid settings are correctly applied. 
@@ -819,12 +866,14 @@ Accelerates spend when pacing behind. 
 
 Conserves budget when pacing ahead. 
 
-Ensures smarter bidding and more efficient budget usage throughout the day.
+1. Ensures smarter bidding and more efficient budget usage throughout the day.
 
 ## Optimize Your Sponsored Products Campaign
 
 Once your campaign is live, you can start making adjustments to improve its performance. Use the guide below to optimize effectively.
-Important: If you're using Revenue Optimizer or Conversion Optimizer, let your campaign run for at least 2 weeks before making any changes. After any adjustment, allow 7–10 days for the system to adapt.
+:::warning
+If you're using Revenue Optimizer or Conversion Optimizer, let your campaign run for at least 2 weeks before making any changes. After any adjustment, allow 7–10 days for the system to adapt.
+:::
 
 ## Choose a Bidding Strategy for Sponsored Products
 
@@ -849,7 +898,7 @@ What to do: 
 
 Use the Revenue optimizer (for the highest ROAS) or Conversions optimizer (for the lowest cost per order).  
 
-Set a CPC cap that’s 30% higher than your bid to help the system adjust while staying in budget. 
+1. Set a CPC cap that’s 30% higher than your bid to help the system adjust while staying in budget.
 
 Lower CPC slightly if your cost per order is too high; raise it if you want more scale.Goal: Maximize Engagement (Get more clicks) 
 
@@ -858,7 +907,7 @@ What to do: 
 
 Use the Click optimizer. 
 
-Set competitive bids to make sure your ad gets visibility. 
+1. Set competitive bids to make sure your ad gets visibility.
 
 Adjust CPC bids as needed to balance cost and performance. Goal: Maximize Sales Revenue 
 
@@ -867,18 +916,18 @@ What to do: 
 
 Use the Revenue optimizer. 
 
-Set strong bids to stay competitive and meet your sales goals. 
+1. Set strong bids to stay competitive and meet your sales goals.
 
 Use a CPC cap (30% above your bid) to control max spend. 
 
-Review top-spending products and slightly reduce bids for items with low ROAS.Goal: Maximize Units Sold 
+1. Review top-spending products and slightly reduce bids for items with low ROAS.Goal: Maximize Units Sold
 
 If you care more about selling more items (rather than total revenue), this is for you. 
 What to do: 
 
 Use the Conversions optimizer. 
 
-Set bids to support high visibility without going below your performance targets. 
+1. Set bids to support high visibility without going below your performance targets.
 
 Use a CPC cap that’s 30% higher than your base bid. 
 
@@ -934,9 +983,11 @@ It boosts budget utilization for line items that struggle to scale. 
 
 It minimizes manual effort – you only need to set a Max CPC, not adjust both line item bids and product/keyword overrides and bid multipliers constantly. 
 
-How does it work?
-Note: We recommend setting the Max CPC to the top of the Suggested CPC range provided for Adaptive line items.
-The optimizer continuously evaluates: 
+### How does it work?
+:::note
+We recommend setting the Max CPC to the top of the Suggested CPC range provided for Adaptive line items.
+The optimizer continuously evaluates:
+:::
 
 How much should a line item have spent vs. actual spend, relative to its daily budget and proportional to current traffic volumes 
 
@@ -950,7 +1001,7 @@ This evaluation happens every few minutes, ensuring bids and pacing stay aligned
 
 ## Optimize by Page Type (Bid Multipliers)
 
-What it does?
+### What it does?
 It lets you adjust your bid depending on the type of page where your ad appears. 
 
 Available Page Types: 
@@ -965,7 +1016,7 @@ Search Page 
 
 AI Assistant
 
-How it works?
+### How it works?
 
 You can increase bids by up to +500% or decrease by up to -50%. 
 
@@ -980,15 +1031,15 @@ Example: If base CPC is $1: 
 
 -30% on Home Page = $0.70 
 
-How to set a Page Type Bid Multiplier?
+### How to set a Page Type Bid Multiplier?
 
 On the Campaigns page, click the name of the campaign you want to edit a line item for.  
 
 On the resulting Line Items page, click the name of the desired line item.  
 
-Click Placements. 
+1. Click Placements.
 
-Click the Edit icon in the Bid Multiplier column of the page type you want to adjust.  
+1. Click the Edit icon in the Bid Multiplier column of the page type you want to adjust.
 
 In the dialog that opens, enter the percentage you want to increase or decrease the bid by, and click Save.  
 
@@ -1010,15 +1061,19 @@ At this point, your line item can be viewed by clicking on its campaign name in 
 
 Line Item Status 
 A line item's status is determined by its configuration and by the manually controlled Off/On toggle on the Line Items page. Line items set to On or Active will spend, while line items set to Off or Inactive will not. You can adjust the status of your line items at any time. 
-Important: If a line item is inactive for more than 90 days, the line item's status will change to Archived. Archived line items cannot be reactivated. 
+:::warning
+If a line item is inactive for more than 90 days, the line item's status will change to Archived. Archived line items cannot be reactivated.
 If you wish to reactivate an archived line item, you should copy the settings from your archived line item into a new line item and set the new line item live.
+:::
 
 ## How to choose the Max CPC?
 
 If you have an existing Open Auction Sponsored Products line item using Standard Bidding and you’re considering switching it to Adaptive CPC, we recommend first reviewing the Suggested Bid Guidance range. This range is available for all Standard bidding line items, which you’ll see when you create the line item and any time you return to edit its bid. 
-Note: The guidance can help you understand the recommended bid levels before making the switch to Adaptive CPC. When you first set your line item to Adaptive CPC, we recommend using the top value of the range as the Max CPC value.
+:::note
+The guidance can help you understand the recommended bid levels before making the switch to Adaptive CPC. When you first set your line item to Adaptive CPC, we recommend using the top value of the range as the Max CPC value.
 Why should you select the maximum?
 Your Max CPC is a ceiling, not the amount you will usually pay. Setting it to the upper bound gives the optimizer enough room to:
+:::
 
 Compete effectively when auctions become more competitive,
 
@@ -1026,7 +1081,7 @@ Maintain pacing when traffic or win rates fluctuate,
 
 Prevent throttling caused by a Max CPC that’s too restrictive.
 Most actual bids will still be below your Max CPC because the optimizer adjusts in real time.
-What does Max CPC actually control?
+### What does Max CPC actually control?
 Max CPC = the highest bid the system is allowed to use when needed
 Actual bids are usually lower and are determined by:
 
@@ -1034,7 +1089,7 @@ Auction competition and available traffic,
 
 How is your line item pacing against its delivery goals.
 If Max CPC is set too low, the optimizer may not be able to raise bids enough during high‑competition moments - causing missed impressions and under‑delivery, especially during peak periods.
-How is the suggested bid range calculated?
+### How is the suggested bid range calculated?
 The suggested range is based on recent CPC outcomes from the most relevant auctions for your line item (past 14 days).
 We calculate:
 
@@ -1042,7 +1097,7 @@ We calculate:
 
 70th percentile CPC → upper bound
 This reflects the typical CPCs required to win auctions under similar conditions.
-How does it work for new vs. existing line items?
+### How does it work for new vs. existing line items?
 For new line items (no history yet), we use:
 
 The SKUs in the line item.
@@ -1053,12 +1108,12 @@ The inventory where the line item may serve.
 Then we look at billed CPCs from clicks on that inventory over the last 14 days and compute the 30th/70th percentiles.
 For existing line items (with history), we use the last 14 days of relevant auction data:
 
-Click optimizer: auctions this line item actually competed in.
+1. Click optimizer: auctions this line item actually competed in.
 
 Revenue/Conversions optimizer: auctions from this line item plus similar line items in the same campaign using the same strategy.
 We then compute the 30th/70th percentile CPC range from winning bids in those auctions.
 This ensures the guidance reflects real, recent competition your line item experiences. So, set your Max CPC to the top of the suggested range to give the optimizer the flexibility it needs to deliver smoothly. Your actual CPCs will still adjust dynamically and may often be lower.
-FAQsWill I always pay the Max CPC if I choose the upper bound?
+### FAQsWill I always pay the Max CPC if I choose the upper bound?
 
 No. Max CPC is only a cap. The optimizer will bid below it most of the time based on competition and pacing.What happens if I choose the lower end of the range?
 
@@ -1066,22 +1121,22 @@ You may restrict delivery. The optimizer might not be able to bid high enough to
 
 ## Optimize by Product (Product Bid Overrides)
 
-What it does?
+### What it does?
 It lets you set individual CPCs for specific products.
 
-Why use it?
+### Why use it?
 
 Prioritize certain products (e.g., new launches, promos). 
 
 Fine-tune performance. 
 
-How it works?
+### How it works?
 
 Product bid overrides replace the line item CPC for that product. 
 
 Any page type multiplier still applies on top of this override.
 
-How to set a product bid override?
+### How to set a product bid override?
 
 In the Campaigns dashboard, select your desired campaign.
 
@@ -1089,19 +1144,21 @@ Once inside the campaign, click on the relevant line item.
 
 On the Products dashboard, scroll to the Product Bid column and click the Edit icon.
 
-Input the amount you want to bid for that individual product.
+1. Input the amount you want to bid for that individual product.
 
 Alternatively, if you want to see all products that live under a campaign: 
 
 After selecting the campaign, click on Products on the left sidebar menu of the Line Item dashboard (instead of clicking the specific line item’s hyperlinked name like you did in Step 2 above). 
 
 You will see all products featured under the campaign, across all its line items. If you scroll to the right in this table, you will see the same Product Bid column and can also set product bid overrides here.
-Note: Make sure your input amount does not exceed the Minimum Bid amount specified in the product bid override pop-up. 
+:::note
+Make sure your input amount does not exceed the Minimum Bid amount specified in the product bid override pop-up.
+:::
 
 Editing in Bulk
 To edit bids for multiple products at once:
 
-Select the checkbox next to each product’s ON/OFF toggle when viewing the list of products within a specific line item, or when viewing the full product list, across all line items, within a campaign.
+1. Select the checkbox next to each product’s ON/OFF toggle when viewing the list of products within a specific line item, or when viewing the full product list, across all line items, within a campaign.
 
 You can select all products by clicking the checkbox in the header row (above the Total row). If any checkbox is selected, an indicator showing how many products are currently selected will appear above the header row, along with an Edit option.  
 
@@ -1163,16 +1220,18 @@ Product B Bid: $1.50 + ($1.50*20%) = $1.80 
 $2 
 No change, since $1.80 < $2.  
 You will see a column showing the Original and New Bids to review your changes before clicking Save.  
-Important: Final bid cannot exceed Max CPC or go below Minimum Bid.
+:::warning
+Final bid cannot exceed Max CPC or go below Minimum Bid.
+:::
 
 ## Understanding the Cap Out Report
 
 Adaptive CPC is designed to reduce early budget cap outs by pacing spend throughout the day. However, missed opportunities can still occur if a line item participates in fewer auctions, especially during high-traffic periods. 
 
-What is Missed Traffic %? 
+### What is Missed Traffic %?
 Missed Traffic % measures how often a line item didn’t compete in auctions during its scheduled active hours. It’s calculated based on the percentage of page loads where the line item was not active, and each inactive period is weighed by the amount of traffic during that time. 
 Missed Traffic % = Number of page loads where the advertiser didn't display an impression after capping out or due to lowered participation rate / Total number of page loads in the day 
-How do scheduled hours affect the calculation? 
+### How do scheduled hours affect the calculation?
 
 If no dayparting is applied, the line item is considered live for all 24 hours. 
 
@@ -1180,14 +1239,14 @@ If dayparting is applied, only the scheduled active hours are included in the ca
 
 ## Optimize by Keyword
 
-What it does?
+### What it does?
 It sets bids per keyword (auto-generated or manual). 
 
-How to use it? 
+### How to use it?
 
 Increase bids for high-performing keywords. 
 
-Add/exclude keywords to fine-tune targeting.
+1. Add/exclude keywords to fine-tune targeting.
 
 ## Bidding Hierarchy
 

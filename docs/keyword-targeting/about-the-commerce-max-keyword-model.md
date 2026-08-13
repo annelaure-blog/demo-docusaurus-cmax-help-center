@@ -15,7 +15,7 @@ Manual Keyword Targeting: Gives you control to add or block keywords at the line
 
 Both models work together to ensure ads appear for the most relevant shopper search terms. 
 
-Why use it? 
+### Why use it?
 
 Increased relevance: Automated model has >92% keyword relevance vs. 39% in manual-only models. 
 
@@ -27,24 +27,24 @@ Wider reach: Captures both high-volume and long-tail keywords, including misspel
 
 Higher conversion: Targets shoppers most likely to convert, based on real search behaviours. 
 
-Who Can Use It? 
+### Who Can Use It?
 All Commerce Max users can benefit from the keyword model: 
 
 Advertisers can use automation to scale quickly while customizing with manual inputs. 
 
 Retailers can approve or block specific terms to maintain brand safety and accuracy. 
 
-When to Use It? 
+### When to Use It?
 
 Use the automated model by default for efficient, high-performance targeting. 
 
-Add manual keywords if you want to target niche terms not yet picked up by automation. 
+1. Add manual keywords if you want to target niche terms not yet picked up by automation.
 
 Use negative keywords to block irrelevant or underperforming terms. 
 
 For new products or SKUs, keep them running even if performance starts slow - this helps the model learn and optimize. 
 
-Where to find it? 
+### Where to find it?
 You can manage keyword targeting at the line item level in the Commerce Max platform.
 
 ## How it works?
@@ -66,7 +66,9 @@ Brand recognition: If your product's brand is visible in the image (e.g., a logo
 
 A selective mechanism ensures image signals are only applied when they add genuine value. For each product, the model automatically determines whether the image provides meaningful additional information beyond the text. If a product image is missing or low in quality, the model relies on text signals only — so there is no disruption to existing keyword associations.
 
-Note: This enhancement applies to Sponsored Products only. It does not affect Onsite Display campaigns. No changes to your campaign setup are needed.
+:::note
+This enhancement applies to Sponsored Products only. It does not affect Onsite Display campaigns. No changes to your campaign setup are needed.
+:::
 
 Manual Keyword Targeting: All the promoted products selected in your line item(s) already have keywords automatically associated with them by our advanced keyword model (see above). In addition, you can negate terms or submit new ones that would not be covered by our model, thanks to the manual keyword targeting tool at the line item level. 
 The real-time negative keyword feature ensures that you capture only the wanted traffic by allowing you to negate specific broad or exact match terms. 
@@ -105,9 +107,9 @@ Use Exact Match for precision and Broad Match to capture more varied intent. 
 Combine both models for maximum flexibility, scale, and control. 
 Important - We do not automatically detect when two brands have the same parent company (example - Maybelline and NYX Cosmetics under L’Oréal). If you want to avoid bidding on branded keywords of sister brands, you must manually add these keywords as negatives in the Conquesting line items. Make sure to -
 
-Review keyword-level reporting regularly to identify and exclude any undesired terms.
+1. Review keyword-level reporting regularly to identify and exclude any undesired terms.
 
-Set recurring audits (bi-weekly or monthly) to monitor keyword performance.
+1. Set recurring audits (bi-weekly or monthly) to monitor keyword performance.
 
 Check the retailer site periodically to see which competitors are conquesting your brand or targeting the same competitor terms.
 

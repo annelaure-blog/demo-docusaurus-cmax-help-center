@@ -3,13 +3,11 @@ title: "Getting Started FAQs"
 sidebar_position: 3
 ---
 
-## Getting Started FAQs
-
-Where would creatives from Sponsored Product campaigns show up?
+### Where would creatives from Sponsored Product campaigns show up?
 
 Sponsored Products campaigns serve native ads on a variety of pages on a retailer's site and app, such as the Home page, Search, and Product Details page. Please check out What is Onsite Sponsored Products? for specific details.
 
-What are some of the benefits of running a Sponsored Product campaign?
+### What are some of the benefits of running a Sponsored Product campaign?
 
 Sponsored Product campaigns help your product pages stand out, leading to greater visibility and, therefore, driving incremental sales.
 
@@ -25,9 +23,9 @@ You have full control over your bidding and reporting at the individual SKU leve
 
 Pay for performance! You only pay when a customer clicks on the ad, making it a cost-effective and performance-based advertising solution.
 
-Launching Sponsored Products is quick and easy, requiring a very short lead time and no creative needed.
+1. Launching Sponsored Products is quick and easy, requiring a very short lead time and no creative needed.
 
-What are the different buying paths for Sponsored Products?
+### What are the different buying paths for Sponsored Products?
 
 Managed Serve (only available to 1P Advertisers)
 
@@ -41,7 +39,7 @@ Relevancy to the ad placement (Example: the algorithm would give a higher releva
 
 Bid (the highest bid is more likely to win the placement).
 
-Input from our algorithm to show SKUs that are more likely to lead to a click (this relates back to relevancy also).
+1. Input from our algorithm to show SKUs that are more likely to lead to a click (this relates back to relevancy also).
 
 Why would I choose a Self-Serve over a Managed Serve Sponsored Products execution?
 
@@ -49,7 +47,7 @@ The Managed Service option is helpful for brands with limited resources or limit
 
 The platform for both Self-Serve and Managed Service Sponsored Products is the same. Whether you choose to manage your campaigns independently (Self-Serve) or have a dedicated account manager handle it for you (Managed Service), you will use the same interface and tools to create, monitor, and optimize your ads.
 
-What happens if I don’t have enough SKUs to run?
+### What happens if I don’t have enough SKUs to run?
 
 The more SKUs you advertise, the larger coverage you will have across placements and the ability to make more SKU-level optimizations.
 

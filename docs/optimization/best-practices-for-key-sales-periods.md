@@ -3,8 +3,6 @@ title: "Best Practices for Key Sales Periods"
 sidebar_position: 2
 ---
 
-## Best Practices for Key Sales Periods
-
 This guide provides essential recommendations to help you successfully prepare, navigate, and optimize your campaigns around key sales periods. From strategic campaign setup to smart bidding, keyword approvals, inventory checks, and post-sale adjustments. Each step is designed to maximize visibility, performance, and ROAS.
 
 ## Before the Key Sales Period
@@ -45,7 +43,9 @@ You can group them with big promotions on one side and new products on the other
 ## During the Key Sales Period
 
 It is important not to adjust the line item's optimizer settings (such as switching from Conversion to Revenue optimizer mid-sales period). 
-Important: Doing this will revert the line item optimizer to the learning phase and not allow the line item to utilize learnings gained over the last 7-10 days.
+:::warning
+Doing this will revert the line item optimizer to the learning phase and not allow the line item to utilize learnings gained over the last 7-10 days.
+:::
 
 Be careful with your capping and make sure line item or campaign caps do not conflict and cause you to misspend opportunities by being too restrictive. 
 Here are some other resources to help you during peak seasons: 

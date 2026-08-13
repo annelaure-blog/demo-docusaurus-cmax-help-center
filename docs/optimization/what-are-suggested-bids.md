@@ -3,11 +3,9 @@ title: "What are Suggested Bids?"
 sidebar_position: 4
 ---
 
-## What are Suggested Bids?
-
 Suggested Bids is a feature that helps you choose a competitive CPC (Cost-Per-Click) bid when setting up or editing Onsite Sponsored Products Line Items. It provides a bid range based on recent auction data from similar products in your category, helping you quickly decide what to bid to start serving impressions without overpaying. 
 
-Why use it? 
+### Why use it?
 This tool helps you: 
 
 Avoid underbidding and missing out on impressions. 
@@ -20,7 +18,7 @@ Save time during campaign setup by using pre-analyzed auction data.  
 
 Helps you benchmark your bid against what similar advertisers are paying in recent auctions. 
 
-When to use it? 
+### When to use it?
 
 When launching a new line item, and unsure what CPC to set. 
 
@@ -28,16 +26,16 @@ When editing an active line item to improve performance or delivery. 
 
 When reviewing the bid strategy mid-flight for better pacing or competitiveness. 
 
-Who is it for? 
+### Who is it for?
 This feature is for advertisers running Onsite Sponsored Products campaigns who want to set competitive bids quickly and confidently, especially when they don’t have past performance data to guide them.  
 
-Where to find it? 
+### Where to find it?
 
 During line item setup, in the Bid step.  
 
 After launch, in the Edit Bid Strategy panel for any active line item 
 
-How it works? 
+### How it works?
 
 The system analyzes real-time auction data from similar products in your line item’s category. 
 

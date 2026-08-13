@@ -7,7 +7,7 @@ sidebar_position: 1
 
 Onsite Sponsored Products campaigns strive to boost sales and increase your category share and visibility with native product ads. Powered by the strongest machine learning technology for retail media, Onsite Sponsored Products ads are highly relevant, performance-based ads that allow you to promote individual products on highly trafficked areas of a retailer’s website, including on Search, Category, Product Detail, Merchandising, and Homepage pages. This gives you an effective way to reach engaged shoppers, boost product discovery, and drive sales. 
 
-Why should you run this campaign?  
+### Why should you run this campaign?
 
 Onsite Sponsored Products ads are easy to set up because they automatically pull product details like the product image, title, and pricing directly from the retailer’s product feed, eliminating the need for additional creative input.  
 
@@ -25,7 +25,7 @@ Sales Attribution for Better Insights – Understand the direct impact of your a
 
 Cost-Effective, Pay-Per-Click Model – You only pay when a shopper clicks on your ad, ensuring that your budget is spent efficiently on engaged potential buyers.
 
-Who should you run this campaign for? 
+### Who should you run this campaign for?
 Sponsored Product campaigns are a good fit if you are looking to drive visibility and sales at the product level, but especially helpful for: 
 
 Brands launching new products 
@@ -37,7 +37,7 @@ Promote best-sellers, seasonal items, or overstocked inventory to increase sales
 Advertisers new to retail media 
 These campaigns are easy to set up, optimized by AI, and budget-friendly - ideal for getting started in retail media with measurable results.
 
-When to run this campaign? 
+### When to run this campaign?
 Sponsored Product campaigns are a great choice when you want to drive visibility and sales for specific products on a retailer’s site. Here’s when to use them: 
 
 To increase product visibility: Sponsored Products help your items show up across key areas like search results, category/browse pages, product detail pages, and even the homepage (based on available space). This makes it easier for shoppers to discover your brand. 
@@ -53,10 +53,10 @@ When you want a cost-efficient model: These campaigns use a pay-per-click model,
 ## Where to find it?
 
 In your Commerce Max account, you can create an Onsite Sponsored Products campaign from the Campaigns dashboard. You can view and manage all your existing campaigns on the same dashboard.  
-Click +Create Campaign, choose Onsite, and then select Onsite Sponsored Products. The platform will guide you through a simplified setup flow based on your selected marketing goal.  
+1. Click +Create Campaign, choose Onsite, and then select Onsite Sponsored Products. The platform will guide you through a simplified setup flow based on your selected marketing goal.
 Please see our guide on how to Create an Onsite Sponsored Products Campaign for step-by-step instructions on creating the campaign. 
 
-How it works? 
+### How it works?
 Sponsored Products operates on a real-time auction model, meaning you must compete against other advertisers for available ad placements. Each time a shopper visits a page where ads can appear, an auction is triggered to determine which ads will be displayed. 
 
 You set a bid – This is the amount you are willing to pay when a shopper clicks on your ad. You can manage bids at different levels to refine your advertising strategy, including: 

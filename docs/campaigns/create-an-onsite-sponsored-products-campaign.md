@@ -3,8 +3,6 @@ title: "Create an Onsite Sponsored Products Campaign"
 sidebar_position: 1
 ---
 
-## Create an Onsite Sponsored Products Campaign
-
 Please keep in mind:
 
 To start activating Sponsored Products through Commerce Max, the first step is to create a Campaign. 
@@ -21,34 +19,39 @@ You can choose the minimum and maximum bid you are willing to pay every time a s
 
 In this guide, you will learn how to create an Onsite Sponsored Products campaign. Navigate to the Campaigns section of the platform and follow the steps below: 
 
-Click the +Campaign button on the Campaign page. 
+1. Click the +Campaign button on the Campaign page.
 
-Select Onsite. 
+1. Select Onsite.
 
 For Campaign Type, select Onsite Sponsored Products. 
 
 For Buy Type, select Auction.
-Note: Most campaigns are auction-based. Should you wish to explore a Sponsorship, please reach out to your Account Strategist.
+:::note
+Most campaigns are auction-based. Should you wish to explore a Sponsorship, please reach out to your Account Strategist.
+:::
 
-Name your campaign. 
+1. Name your campaign.
 
 The campaign name you choose will be seen only by you in the Campaign and Analytics Section. It won't appear in your ads and will never be visible to shoppers. 
 
-Map to an available balance.
-Note: Balances are required to add funds to an account so that your campaigns can run. You can now map a campaign to a balance directly during campaign creation, and update the balance mapping later in Campaign Settings.
+1. Map to an available balance.
+:::note
+Balances are required to add funds to an account so that your campaigns can run. You can now map a campaign to a balance directly during campaign creation, and update the balance mapping later in Campaign Settings.
+:::
 
-Schedule your flight dates
+1. Schedule your flight dates
 
 The campaign flight date is different from the line item’s flight dates. 
 
-Adding an end date to your campaign is optional. 
+1. Adding an end date to your campaign is optional.
 
 The end date of the campaign takes priority over the end date of the line item. 
 
-Input and define your budget.
-Note: 
+1. Input and define your budget.
+:::note
+:::
 
-Setting up a budget for your campaign is optional. When creating your campaign, select one of the options below: 
+1. Setting up a budget for your campaign is optional. When creating your campaign, select one of the options below:
 
 Uncapped Budget: Your campaign will spend from the funds available in the balance that you set up in the Billing Section of the platform.  
 
@@ -74,13 +77,13 @@ Campaign End Date 
 
 Campaign Total Budget
 
-Customize your attribution settings.
+1. Customize your attribution settings.
 
 We recommend maintaining the default settings. However, you can change them to suit whatever your needs may be. 
 
 The conversion cycle can be drastically different between a shopper buying groceries and a shopper buying a TV. Your return on ad spend (ROAS) measurement can also be different depending on your objectives (lower or upper funnel) and the ad formats that you are running. 
 
-Customize your attribution settings to fit your campaign's goal by selecting which Lookback Window to use and defining the Product Match for both Post-Click and Post-View conversions. 
+1. Customize your attribution settings to fit your campaign's goal by selecting which Lookback Window to use and defining the Product Match for both Post-Click and Post-View conversions.
  
 The Lookback Window is the eligible time period between a sales transaction and an ad event. The Product Match is the relationship between the purchased product and the advertised one. 
  
@@ -143,11 +146,11 @@ You can change the attribution settings after creating your campaign and launchi
 
 When adjusting your attribution settings during a campaign flight, there will be up to a 2-hour delay before the new settings are reflected in reporting. All reporting will then update to reflect your new attribution. 
 
-Click Next. Your campaign is now ready for you to add your line items.
+1. Click Next. Your campaign is now ready for you to add your line items.
 
 ## Best Practices
 
-Launching an Onsite Sponsored Products campaign is easy when you follow these key steps. For more information on any section, click the help center links provided in each one.  
+1. Launching an Onsite Sponsored Products campaign is easy when you follow these key steps. For more information on any section, click the help center links provided in each one.
 
 Campaign Setup 
 Start by creating your campaign with the right dates, budgets, and retailer.
@@ -168,7 +171,9 @@ You can set a monthly or daily budget cap. For daily budgets, choose:
 Automated pacing (recommended): Spreads your spend evenly across the campaign 
 
 Manual pacing: You control the daily spend  
-Note: You can set budgets at both the campaign and line item level. If both are set, the campaign cap is the maximum spend, and line item caps apply within that total.
+:::note
+You can set budgets at both the campaign and line item level. If both are set, the campaign cap is the maximum spend, and line item caps apply within that total.
+:::
 
 To learn more, please see Budget, Caps, and Pacing.  
 
@@ -177,13 +182,13 @@ Ask your Criteo representative to assign your signed IO (insertion order) budget
 To learn more, please see About Balances. 
 
 Budget Configuration 
-Double-check that your campaign and line item budgets work together. 
+1. Double-check that your campaign and line item budgets work together.
 
 If your line item budgets add up to less than your campaign budget, your campaign will only spend up to the line item total.
  
 
 Products 
-Add a wide range of products to start. As performance data comes in, you can optimize by removing low-performing items and focusing on top performers. 
+1. Add a wide range of products to start. As performance data comes in, you can optimize by removing low-performing items and focusing on top performers.
 If you can’t find a product on the platform: 
 
 Make sure it’s available on the retailer’s site 

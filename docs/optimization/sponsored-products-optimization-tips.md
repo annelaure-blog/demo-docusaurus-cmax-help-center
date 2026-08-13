@@ -3,8 +3,6 @@ title: "Sponsored Products Optimization Tips"
 sidebar_position: 1
 ---
 
-## Sponsored Products Optimization Tips
-
 This guide provides actionable solutions for common challenges that may arise after launching your campaign, such as low scale, poor ROAS, high CPCs, or early budget cap-outs. Whether you're looking to drive more impressions, improve cost efficiency, or outperform competitors, the tips in this guide are designed to help you optimize performance at both the line item and product level. 
 Each section is organized by specific goals or issues, with detailed recommendations tailored to your campaign setup. You’ll also find guidance on bidding strategies, product prioritization, and optimizer selection to help you make informed decisions based on real-time performance. 
 You can use this guide to adjust your strategy when your campaign isn't scaling, needs to improve ROAS, or you're looking for more visibility. These optimization levers will help you maximize return while balancing delivery and cost efficiency.
@@ -22,7 +20,7 @@ If your products are in individual line items:
 
 Group all your priority products into one line item and allocate a specific budget to this line item.
 
-Set the line item bid higher than the non-priority line items and progressively increase the bid until the desired scale is reached.
+1. Set the line item bid higher than the non-priority line items and progressively increase the bid until the desired scale is reached.
 
 You can also adjust bids at the product level if there are varying levels of priority within a line item.
 
@@ -97,7 +95,7 @@ First, remember that if you are using the Revenue or Conversions Optimizer, your
 
 If you don’t want to bid higher than a specific amount and/or reduce your average bids, you can:
 
-Set a CPC cap on line items running on the Revenue or Conversions Optimizer, where your average CPC is too high.
+1. Set a CPC cap on line items running on the Revenue or Conversions Optimizer, where your average CPC is too high.
 
 Lower bids progressively at the line item or product level but try to keep your bids (at minimum) 20% above the floor and cap at least 30% above your bid to allow the engine to optimize effectively.
 
@@ -118,7 +116,7 @@ Lower your CPC bids 
 
 Utilize the product bid override tool and the page type bid multiplier on lower-performing SKUs 
 
-Add negative percentages on lower-performing page types 
+1. Add negative percentages on lower-performing page types
 
 Toggle the line item off and on during desired time frames. Since day parting is not yet available on the platform, this would be a manual day parting solution. 
 

@@ -3,11 +3,9 @@ title: "Edit an Onsite Sponsored Products Campaign"
 sidebar_position: 2
 ---
 
-## Edit an Onsite Sponsored Products Campaign
-
 In this guide, you will learn how to edit a campaign. To edit a campaign:
 
-Navigate to the Campaigns section of the platform. 
+1. Navigate to the Campaigns section of the platform.
 
 Find the campaign you want to edit and click on the campaign name. 
 
@@ -32,7 +30,10 @@ To edit any of these fields mentioned above, click on the respective icon.
 Campaign budgets help you control your advertising costs. In Commerce Max, you can decide to either set a total budget for your campaign or leave your campaign uncapped. You can edit your budget at any time, effective immediately.
 
 If switching from uncapped to capped, you must account for the campaign's historical spend. Select Capped, then enter the entire amount the campaign has already spent, plus your desired spend amount for the remainder of the campaign timing. Once your campaign reaches the set budget amount, it will stop delivering ads.
-Note: You must enter what the campaign has already spent + what you want to spend in the future. 
+:::note
+You must enter what the campaign has already spent + what you want to spend in the future.
+:::
+
  
 Example: If your campaign has spent $10,000 so far while being uncapped and you want the campaign to spend $5,000 more, you should enter $15,000 in the Capped Budget space. 
 
@@ -61,11 +62,16 @@ Campaign Start Date 
 Campaign End Date 
 
 Campaign Total Budget
-Note: When editing a capped campaign budget, you are adding or decreasing the remaining budget of your campaign, not setting a new budget. 
+:::note
+When editing a capped campaign budget, you are adding or decreasing the remaining budget of your campaign, not setting a new budget.
+:::
+
  
 Example: Your campaign budget is $1,000 and your campaign has spent $800, leaving a remaining budget of $200. You'd like your campaign to be able to spend $1,500 in total, so you add $500 to your remaining budget of $200, bringing the total remaining budget to $700. 
 You can also add a memo for reference if you want to keep track of your edits. This memo will be available with all edit details in the Budget History, under Campaign Budget in the Campaign Settings page.
-Note: Click Save before leaving the pop-up window. Any unsaved changes will be lost.
+:::note
+Click Save before leaving the pop-up window. Any unsaved changes will be lost.
+:::
 
 ## Edit Campaign Attribution
 
@@ -76,9 +82,12 @@ To change your lookback window: 
 
 On the Campaigns page, click the name of the desired campaign to open the line item dashboard 
 
-Click Campaign Settings in the left panel 
+1. Click Campaign Settings in the left panel
 
-Click the pencil icon in the Attribution Settings section to update your lookback window 
-Click Save before leaving the pop-up window. Any unsaved changes will be lost.
- Note: When adjusting your attribution settings, there will be up to a 2-hour delay before the new settings are reflected in reporting. The new settings will be retroactively applied to the full extent of your campaign.
+1. Click the pencil icon in the Attribution Settings section to update your lookback window
+1. Click Save before leaving the pop-up window. Any unsaved changes will be lost.
+:::note
+When adjusting your attribution settings, there will be up to a 2-hour delay before the new settings are reflected in reporting. The new settings will be retroactively applied to the full extent of your campaign.
 To learn more about our attribution settings and model, go to Attribution overview.
+:::
+

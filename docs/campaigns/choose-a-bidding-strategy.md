@@ -18,18 +18,18 @@ Make sure that you adjust bids progressively (if you change them). Make incremen
 Align your line item optimizer to your objectives and desired KPIs.
 
 Note that when using a Revenue or Conversion optimizer, the engine will take 7-10 days on average before reaching maximum efficiency. Performance may fluctuate during this period.
-Goal and Bidding Tactics
+1. Goal and Bidding Tactics
 See the following tactics to maximize efficiency, engagement, sales revenue, and/or units sold.
 Maximize Efficiency
 This is the most common Onsite Sponsored Products strategy. It can potentially decrease scale, coverage, and competitiveness in terms of share of impression, but it is very effective to get greater ROAS and sales revenue.
 
 Recommended bidding tactics:
 
-Set your line item optimizer to Revenue for the highest ROAS or to Conversions for the lowest Cost per Order (CPO).
+1. Set your line item optimizer to Revenue for the highest ROAS or to Conversions for the lowest Cost per Order (CPO).
 
 Since the Revenue and Conversions optimizers modulate the CPC you enter to maximize performance, it is useful to set a CPC cap to make sure that your bid will not exceed the maximum amount you wish to pay. The CPC cap should always remain at least 30% above the bid you enter to allow the engine to optimize effectively.
 
-Set your bids competitively to balance scale and performance (ROAS or CPO) targets.
+1. Set your bids competitively to balance scale and performance (ROAS or CPO) targets.
 
 Optimize bids with respect to your CPO targets: lower CPCs slightly to increase efficiency, or raise them to increase scale.
 Maximize Engagement
@@ -37,18 +37,18 @@ This is an excellent strategy for upper funnel use cases such as new product lau
 
 Recommended bidding tactics:
 
-Set the line item optimizer to Clicks.
+1. Set the line item optimizer to Clicks.
 
-Set bids competitively to make sure that your ads will deliver efficiently.
+1. Set bids competitively to make sure that your ads will deliver efficiently.
 
 Optimize bids with respect to your ROAS targets while making sure that they are high enough to scale properly: slightly lower CPCs to increase efficiency or raise them if you are not scaling enough.
 Maximize Sales Revenue
 
 This strategy will potentially lower your scale and competitiveness but enables greater sales revenue.
 
-Set the line item optimizer to Revenue.
+1. Set the line item optimizer to Revenue.
 
-Set bids to maximize scale and competitiveness while staying above KPI thresholds.
+1. Set bids to maximize scale and competitiveness while staying above KPI thresholds.
 
 Since the Revenue optimizer modulates the CPC you enter to maximize performance, it is useful to set a CPC cap to make sure that your bid will not exceed the maximum amount you wish to pay. The CPC cap should always remain at least 30% above the bid you enter to allow the engine to optimize effectively.
 
@@ -58,9 +58,9 @@ In general, slightly lower CPC to increase efficiency or raise CPC to increase w
 Maximize Units Sold
 This strategy will potentially lower your scale and coverage, but enables greater units sold and lower CPO.
 
-Set the line item optimizer to Conversions.
+1. Set the line item optimizer to Conversions.
 
-Set bids to maximize scale and competitiveness while staying above KPI thresholds.
+1. Set bids to maximize scale and competitiveness while staying above KPI thresholds.
 
 Since the Conversions optimizer modulates the CPC you enter to maximize performance, it is useful to set a CPC cap to make sure that your bid will not exceed the maximum amount you wish to pay. The CPC cap should always remain at least 30% above the bid you enter to allow the engine to optimize effectively.
 
